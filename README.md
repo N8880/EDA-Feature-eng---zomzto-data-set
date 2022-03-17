@@ -1,2 +1,2 @@
-# EDA-Feature-eng---zomzto-data-set
+# EDA-Feature-eng---zomato-data-set
 Exploratory data analysis
